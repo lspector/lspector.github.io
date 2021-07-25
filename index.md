@@ -1,5 +1,3 @@
-# This is
-## a
-### test
+Lee Spector
 
-ta daa!
+[Publications](publications.md)
