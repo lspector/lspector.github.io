@@ -1,6 +1,6 @@
-## [Lee Spector](http://faculty.hampshire.edu/lspector): Publications
+## [Lee Spector](https://www.amherst.edu/people/facstaff/lspector): Publications
 
-Copies available upon request.
+Copies of many of these publications are available upon request.
 
 * * *
 
