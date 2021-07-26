@@ -1,6 +1,6 @@
 
 
-![Lee Spector](lee-head-20190730.jpg = 239x310)
+![Lee Spector](lee-head-20190730.jpg width=239 height=310)
 
 # Lee Spector
 
