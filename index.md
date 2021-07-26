@@ -1,7 +1,5 @@
 
 
-[//]: # ![Lee Spector](lee-head-20190730.jpg | width=239 height=310)
-
 <img src="lee-head-20190730.jpg" width="239" height="310" />
 
 # Lee Spector
