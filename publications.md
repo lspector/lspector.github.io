@@ -181,6 +181,8 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 ## Conference and Workshop Papers
 
+Ding, L., and L. Spector. 2021. Evolving neural selection with adaptive regularization. In _Proceedings of GECCO 2021 Companion_, pp. 1717-1725. Genetic and Evolutionary Computation Conference (GECCO '21). Published by the Association for Computing Machinery. DOI: https://doi.org/10.1145/3449726.3463189
+
 Helmuth, T., E. Pantridge, G. Woolson, and L. Spector. 2020\. Genetic Source Sensitivity and Transfer Learning in Genetic Programming. In _Artificial Life Conference Proceedings_, pp. 303-311\. MIT Press. ([pdf](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00326))  
 
 Helmuth, T., and Spector, L. 2020\. Explaining and Exploiting the Advantages of Down-sampled Lexicase Selection. In _Artificial Life Conference Proceedings_, pp. 341-349\. MIT Press. ([pdf](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00334))
@@ -332,6 +334,8 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 
 ## Posters and Poster Papers
 
+Saini, A. K. and L. Spector. 2021. GLEAM: Genetic Learning by Extraction and Absorption of Modules. In _Proceedings of GECCO '21 Companion_, pp. 263-264. DOI: https://doi.org/10.1145/3449726.3459544
+
 Helmuth, T., L. Spector, and E. Pantridge. 2020\. Counterexample-Driven Genetic Programming without Formal Specifications. In _Proceedings of GECCO '20 Companion_,  pp. 239-240\. DOI: https://doi.org/10.1145/3377929.3389983  
 
 Helmuth, T., E. Pantridge, G. Woolson, L. Spector. 2020\. Transfer Learning of Genetic Programming Instruction Sets. In _Proceedings of GECCO '20 Companion_,  pp. 241-242\. DOI: https://doi.org/10.1145/3377929.3389988
@@ -419,6 +423,8 @@ Spector, L., J. Hendler, J. Canning, and A. Rosenfeld. 1988\. Symbolic Model/Ima
 * * *
 
 ## Tutorials with published slides
+
+Push. Tutorial, <span style="font-style: italic;">Genetic and Evolutionary Computation Conference (GECCO),</span> July, 2021\. Slides published in <span style="font-style: italic;">GECCO '21 Companion</span>, by the Association for Computing Machinery.
 
 Push. Tutorial, <span style="font-style: italic;">Genetic and Evolutionary Computation Conference (GECCO),</span> July, 2020\. Slides published in <span style="font-style: italic;">GECCO '20 Companion</span>, by the Association for Computing Machinery.
 
