@@ -6,6 +6,8 @@ Lee Spector teaches and conducts research in artificial intelligence, artificial
 
 Institutional home pages: [Amherst College](https://www.amherst.edu/people/facstaff/lspector), [Hampshire College](http://faculty.hampshire.edu/lspector/), [UMass Amherst](https://www.cics.umass.edu/faculty/directory/spector_lee)
 
+---
+
 [Curriculum Vitae](spector-cv-20210726.pdf)
 
 [Publications](publications.md)
