@@ -4,8 +4,6 @@
 
 Lee Spector teaches and conducts research in artificial intelligence, artificial life, and a variety of areas at the intersections of computer science with cognitive science, physics, evolutionary biology, and the arts. 
 
-Institutional home pages: [Amherst College](https://www.amherst.edu/people/facstaff/lspector), [Hampshire College](http://faculty.hampshire.edu/lspector/), [UMass Amherst](https://www.cics.umass.edu/faculty/directory/spector_lee)
-
 ---
 
 [Curriculum Vitae](spector-cv-20210726.pdf)
@@ -14,7 +12,10 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 
 ---
 
-## Featured projects and links
+See institutional home pages for further information: [Amherst College](https://www.amherst.edu/people/facstaff/lspector), [Hampshire College](http://faculty.hampshire.edu/lspector/), [UMass Amherst](https://www.cics.umass.edu/faculty/directory/spector_lee)
+
+
+## Featured projects
 
 - Genetic Programming and Evolvable Machines: [Journal](https://www.springer.com/journal/10710), [Blog](https://gpemjournal.blogspot.com)
 
