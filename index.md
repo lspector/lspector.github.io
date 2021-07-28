@@ -10,7 +10,7 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 
 [Publications](publications.md)
 
-[Genetic Programming and Evolvable Machines](https://www.springer.com/journal/10710)
+[Genetic Programming and Evolvable Machines](https://www.springer.com/journal/10710) ([Blog](https://gpemjournal.blogspot.com))
 
 [Artificial Intelligence in the Liberal Arts](https://liberal-arts.ai)
 
