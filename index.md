@@ -12,8 +12,14 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 
 [Publications](publications.md)
 
-Genetic Programming and Evolvable Machines: [Journal](https://www.springer.com/journal/10710), [Blog](https://gpemjournal.blogspot.com)
+---
 
-[Artificial Intelligence in the Liberal Arts](https://liberal-arts.ai)
+## Featured projects and links
 
-[Push Language Discourse](https://discourse.pushlanguage.org/)
+- Genetic Programming and Evolvable Machines: [Journal](https://www.springer.com/journal/10710), [Blog](https://gpemjournal.blogspot.com)
+
+- [Artificial Intelligence in the Liberal Arts](https://liberal-arts.ai)
+
+- [Push Language Discourse](https://discourse.pushlanguage.org/)
+
+- [Interpush](https://lspector.github.io/interpush/), an online Push interpreter
