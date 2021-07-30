@@ -16,7 +16,7 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 
 
 
-## Featured projects
+### Featured projects
 
 - Genetic Programming and Evolvable Machines: [Journal](https://www.springer.com/journal/10710), [Blog](https://gpemjournal.blogspot.com)
 
