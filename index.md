@@ -25,3 +25,5 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 - [Push Language Discourse](https://discourse.pushlanguage.org/)
 
 - [Interpush](https://lspector.github.io/interpush/), an online Push interpreter
+
+- Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.edu/lspector/code.html)
