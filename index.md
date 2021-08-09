@@ -28,3 +28,5 @@ Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.e
 
 - [Interpush](https://lspector.github.io/interpush/), an online Push interpreter
 
+- [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox)
+
