@@ -10,7 +10,7 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 
 [Curriculum Vitae](spector-cv-20210726.pdf)
 
-[Publications](publications.md)
+Publications: [Personal Archive](publications.md), [Google Scholar](https://scholar.google.com/citations?user=wtKLtLUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/L.-Spector/144665700), [DBLP](https://dblp.org/pid/68/434.html)
 
 Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.edu/lspector/code.html)
 
