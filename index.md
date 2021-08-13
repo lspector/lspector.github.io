@@ -2,7 +2,7 @@
 
 <img src="lee-head-20190730.jpg" width="239" height="310" />
 
-Lee Spector teaches and conducts research in artificial intelligence, artificial life, and a variety of areas at the intersections of computer science with cognitive science, physics, evolutionary biology, and the arts. 
+Lee Spector teaches and conducts research in artificial intelligence, artificial life, and areas at the intersections of computer science with cognitive science, physics, evolutionary biology, and the arts. 
 
 ---
 
