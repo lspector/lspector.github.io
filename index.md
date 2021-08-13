@@ -14,6 +14,8 @@ Publications: [Personal Archive](publications.md), [Google Scholar](https://scho
 
 Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.edu/lspector/code.html)
 
+Twitter: [leespector](https://twitter.com/leespector)
+
 ---
 
 
