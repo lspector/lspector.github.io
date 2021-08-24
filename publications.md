@@ -74,6 +74,8 @@ Spector, L. and J. Grafman. 1994\. Planning, Neuropsychology, and Artificial Int
 
 ## Journal Publications
 
+Helmuth, T., and L. Spector. 2021. Problem-solving benefits of down-sampled lexicase selection. To appear in {\it Artificial Life}. Preprint at https://arxiv.org/abs/2106.06085
+
 Helmuth, T., Pantridge, E., and L. Spector , and Lee Spector. 2020\. On the importance of specialists for lexicase selection. In <span style="font-style: italic;">Genetic Programming and Evolvable Machines</span>. https://doi.org/10.1007/s10710-020-09377-2 ([full text](https://t.co/M4NYyOjk4S))
 
 Spector, L. 2020\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 21, No. 1, pp. 1-2.  
