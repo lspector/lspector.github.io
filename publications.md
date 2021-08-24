@@ -22,6 +22,9 @@ Spector, L., U.-M. O'Reilly, W. Langdon, and P. Angeline, editors. 1999. _Advanc
 
 ## Book Chapters
 
+Saini, A. K., and Spector, L. 2021. Evolving and Analyzing modularity with
+GLEAM (Genetic Learning by Extraction and Absorption of Modules). In _Genetic Programming Theory and Practice XVIII_. New York: Springer. pp. 171-185. In press.
+
 Saini, A. K., and Spector, L. 2020\. Using Modularity Metrics as Design Features to Guide Evolution in Genetic Programming. In <span style="font-style: italic;">Genetic Programming Theory and Practice XVII</span>. New York: Springer. pp. 165-180.  
 
 Pantrdige, E., Helmuth, T., and Spector, L. 2020\. Comparison of Linear Genome Representations For Software Synthesis. In <span style="font-style: italic;">Genetic Programming Theory and Practice XVII</span>. New York: Springer. pp. 255-274\. ([pdf](http://faculty.hampshire.edu/lspector/pubs/GPTP_2019_Plush_Plushy_preprint.pdf))  
