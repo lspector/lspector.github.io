@@ -32,5 +32,4 @@ Social: [Twitter](https://twitter.com/leespector), [Youtube](https://www.youtube
 
 - [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox)
 
-- [Comments](https://www.facebook.com/watch/live/?v=489664699066947) on Information Theory, given in conjunction with a screening of *The Bit Player* at Amherst Cinema (remotely)
-
+- [Comments](https://www.facebook.com/watch/live/?v=489664699066947) on information theory, given in conjunction with a remote screening of *The Bit Player*
