@@ -130,7 +130,7 @@ Spector, L. 2014\. Editorial Introduction. In _Genetic Programming and Evolvable
 
 Spector, L. 2013\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 14, No. 1, pp. 1-2.
 
-McCaffrey, T., and L. Spector. 2012\. Behind every innovative solution lies an obscure feature. In _Knowledge Management & E-Learning: An International Journal_, Vol. 4, No. 2, pp. 146-156.
+McCaffrey, T., and L. Spector. 2012\. Behind every innovative solution lies an obscure feature. In _Knowledge Management & E-Learning: An International Journal_, Vol. 4, No. 2, pp. 146-156. ([Full text on-line](https://www.kmel-journal.org/ojs/index.php/online-publication/article/view/161))
 
 Spector, L. 2012\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 13, No. 1, pp. 1-2.
 
