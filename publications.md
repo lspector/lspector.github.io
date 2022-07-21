@@ -188,6 +188,8 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 ## Conference and Workshop Papers
 
+Boldi, R., T. Helmuth, and L. Spector. 2022. The environmental discontinuity hypothesis for down-sampled lexicase selection. In the _Why it didn't work-shop_ at _ALIFE 2022: The 2022 Conference on Artificial Life_. ([pdf](https://arxiv.org/pdf/2205.15931.pdf))
+
 Pantridge, E., T. Helmuth, and L. Spector. 2022. Functional code building genetic programming. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '22)_, pp. 1000-1008. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3512290.3528866))
 
 Ding, L., and L. Spector. 2022. Evolutionary quantum architecture search for parametrized quantum circuits. In _GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion_, pp. 2190-2195. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3520304.3534012))
