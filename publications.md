@@ -190,6 +190,8 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 Pantridge, E., T. Helmuth, and L. Spector. 2022. Functional code building genetic programming. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '22)_, pp. 1000-1008. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3512290.3528866))
 
+Ding, L., and L. Spector. 2022. Evolutionary quantum architecture search for parametrized quantum circuits. In _GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion_, pp. 2190-2195. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3520304.3534012))
+
 Ding, L., R. Boldi, T. Helmuth, and L. Spector. 2022. Lexicase selection at scale. In _GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion_, pp. 2054-2062. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3520304.3534026))
 
 Ding, L., and L. Spector. 2021. Evolving neural selection with adaptive regularization. In _Proceedings of GECCO 2021 Companion_, pp. 1717-1725. Genetic and Evolutionary Computation Conference (GECCO '21). Published by the Association for Computing Machinery. ([pdf](https://doi.org/10.1145/3449726.3463189))
