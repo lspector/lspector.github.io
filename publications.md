@@ -188,7 +188,7 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 ## Conference and Workshop Papers
 
-Pantridge, E., T. Helmuth, and L. Spector. 2022. Functional code building genetic programming. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '22)_, pp. 1000--1008. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3512290.3528866))
+Pantridge, E., T. Helmuth, and L. Spector. 2022. Functional code building genetic programming. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '22)_, pp. 1000-1008. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3512290.3528866))
 
 Ding, L., and L. Spector. 2021. Evolving neural selection with adaptive regularization. In _Proceedings of GECCO 2021 Companion_, pp. 1717-1725. Genetic and Evolutionary Computation Conference (GECCO '21). Published by the Association for Computing Machinery. ([pdf](https://doi.org/10.1145/3449726.3463189))
 
@@ -343,7 +343,7 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 
 ## Posters and Poster Papers
 
-Ding, L., R. Boldi, T. Helmuth, and L. Spector. 2022. Going faster and hence further with lexicase selection. In {\it GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion}, pp. 538--541. ([pdf](https://doi.org/10.1145/3520304.3529059))
+Ding, L., R. Boldi, T. Helmuth, and L. Spector. 2022. Going faster and hence further with lexicase selection. In {\it GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion}, pp. 538-541. ([pdf](https://doi.org/10.1145/3520304.3529059))
 
 Saini, A. K. and L. Spector. 2021. GLEAM: Genetic Learning by Extraction and Absorption of Modules. In _Proceedings of GECCO '21 Companion_, pp. 263-264. DOI: https://doi.org/10.1145/3449726.3459544
 
