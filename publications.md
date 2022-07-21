@@ -86,7 +86,7 @@ Helmuth, T., Pantridge, E., and L. Spector. 2020. On the importance of specialis
 
 Spector, L. 2020\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 21, No. 1, pp. 1-2.  
 
-O'Neill, M., and Lee Spector. 2020\. Automatic programming: The open issue? In <span style="font-style: italic;">Genetic Programming and Evolvable Machines.</span> https://doi.org/10.1007/s10710-019-09364-2 ([full text](https://rdcu.be/bQUA2))
+O'Neill, M., and Lee Spector. 2020\. Automatic programming: The open issue? _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 251-262. https://doi.org/10.1007/s10710-019-09364-2 ([full text](https://rdcu.be/bQUA2))
 
 Spector, L. 2019\. Editorial Introduction. In <span style="font-style: italic;">Genetic Programming and Evolvable Machines</span>, Vol. 20, No. 1, pp. 1-2.  
 
