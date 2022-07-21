@@ -343,6 +343,8 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 
 ## Posters and Poster Papers
 
+Ding, L., R. Boldi, T. Helmuth, and L. Spector. 2022. Going faster and hence further with lexicase selection. In {\it GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion}, pp. 538--541. ([pdf](https://doi.org/10.1145/3520304.3529059))
+
 Saini, A. K. and L. Spector. 2021. GLEAM: Genetic Learning by Extraction and Absorption of Modules. In _Proceedings of GECCO '21 Companion_, pp. 263-264. DOI: https://doi.org/10.1145/3449726.3459544
 
 Helmuth, T., L. Spector, and E. Pantridge. 2020\. Counterexample-Driven Genetic Programming without Formal Specifications. In _Proceedings of GECCO '20 Companion_,  pp. 239-240\. DOI: https://doi.org/10.1145/3377929.3389983  
