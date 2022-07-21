@@ -83,6 +83,9 @@ Spector, L. 2021\. Editorial Introduction. In _Genetic Programming and Evolvable
 
 Helmuth, T., Pantridge, E., and L. Spector , and Lee Spector. 2020\. On the importance of specialists for lexicase selection. In <span style="font-style: italic;">Genetic Programming and Evolvable Machines</span>. https://doi.org/10.1007/s10710-020-09377-2 ([full text](https://t.co/M4NYyOjk4S))
 
+Helmuth, T., Pantridge, E., and L. Spector. 2020. On the importance of specialists for lexicase selection. In _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 349--373. https://doi.org/10.1007/s10710-020-09377-2. ([pdf](https://t.co/M4NYyOjk4S))
+
+
 Spector, L. 2020\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 21, No. 1, pp. 1-2.  
 
 O'Neill, M., and Lee Spector. 2020\. Automatic programming: The open issue? In <span style="font-style: italic;">Genetic Programming and Evolvable Machines.</span> https://doi.org/10.1007/s10710-019-09364-2 ([full text](https://rdcu.be/bQUA2))
