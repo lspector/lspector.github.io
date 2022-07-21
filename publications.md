@@ -81,7 +81,7 @@ Helmuth, T., and L. Spector. 2021. Problem-solving benefits of down-sampled lexi
 
 Spector, L. 2021\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 22, No. 1, pp. 1-2.  
 
-Helmuth, T., Pantridge, E., and L. Spector. 2020. On the importance of specialists for lexicase selection. In _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 349--373. https://doi.org/10.1007/s10710-020-09377-2. ([pdf](https://t.co/M4NYyOjk4S))
+Helmuth, T., Pantridge, E., and L. Spector. 2020. On the importance of specialists for lexicase selection. In _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 349--373. https://doi.org/10.1007/s10710-020-09377-2. ([full text](https://t.co/M4NYyOjk4S))
 
 
 Spector, L. 2020\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 21, No. 1, pp. 1-2.  
