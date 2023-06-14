@@ -77,6 +77,8 @@ Spector, L. and J. Grafman. 1994\. Planning, Neuropsychology, and Artificial Int
 
 ## Journal Publications
 
+Ding, L., and L. Spector. 2023. Multi-Objective Evolutionary Architecture Search for Parameterized Quantum Circuits. In _Entropy_, Vol 25, No. 1: 93. ([full text](https://doi.org/10.3390/e25010093))
+
 Spector, L. 2022. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 23, No. 1, pp. 1-2.
 
 Helmuth, T., and L. Spector. 2021. Problem-solving benefits of down-sampled lexicase selection. In _Artificial Life_, Vol 27, Issue 3-4, pp. 183--203. ([pdf](https://doi.org/10.1162/artl_a_00341))
