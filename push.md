@@ -2,6 +2,8 @@
 
 ### The PUSH lab at Amherst College and the University of Massachusetts, Amherst ###
 
+[Lee Spector](https://leespector.com), Director
+
 * * *
 
 #### Participants and Associates
