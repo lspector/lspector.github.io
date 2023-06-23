@@ -28,7 +28,7 @@
 - Huichen Wang (Amherst College)
 
 
-##### Others, including some who were active when the lab was based at Hampshire College, and some who have only participated occasionally or intermittently
+##### Past/occasional participants
 
 - Sneha Reddy Aenugu (U Massachusetts Amherst)
 - Isaac Allison (Hampshire College)
@@ -57,7 +57,7 @@
 - William La Cava (U Massachusetts Amherst)
 - Miranda Law (Amherst College)
 - Karen Liu (Amherst College)
-- Ian Estabrooks MacPherson
+- Ian Estabrooks MacPherson (Hampshire College)
 - Justin Marler (Hamilton College)
 - Blossom Metevier (U Massachusetts Amherst)
 - Eva Moshkovich (U Massachusetts Amherst)
