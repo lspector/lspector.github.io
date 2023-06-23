@@ -32,7 +32,7 @@
 - Huichen Wang (Amherst College)
 
 
-##### Past/occasional
+##### Past + occasional
 
 - Sneha Reddy Aenugu (U Massachusetts Amherst)
 - Isaac Allison (Hampshire College)
