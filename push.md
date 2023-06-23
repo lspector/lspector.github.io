@@ -1,4 +1,4 @@
-<img src="push-logo.png" width="400" />
+<img src="push-logo-20230623.png" width="400" />
 
 ### The PUSH lab at Amherst College and the University of Massachusetts, Amherst ###
 
