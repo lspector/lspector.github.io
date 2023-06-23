@@ -2,7 +2,7 @@
 
 * * *
 
-### The PUSH lab at Amherst College and the University of Massachusetts, Amherst ###
+### The PUSH lab at Amherst College, the University of Massachusetts, Amherst, and Hampshire College ###
 
 [Lee Spector](https://leespector.com), Director
 
