@@ -1,5 +1,7 @@
 <img src="push-logo-20230623.png" width="400" />
 
+* * *
+
 ### The PUSH lab at Amherst College and the University of Massachusetts, Amherst ###
 
 [Lee Spector](https://leespector.com), Director
