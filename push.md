@@ -36,6 +36,7 @@
 
 - Sneha Reddy Aenugu (U Massachusetts Amherst)
 - Isaac Allison (Hampshire College)
+- Adam Alpern (Hampshire College)
 - Nada Al-Thawr (Mount Holyoke College)
 - Kwaku Yeboah Antwi (Hampshire College)
 - Claudiu Babin (Amherst College)
@@ -88,6 +89,7 @@
 - Maurisa Saylor (Hampshire College)
 - Julia Schor (Amherst College)
 - Laverne Schrock (U Minnisota Morris)
+- Adam Schwartz (Hampshire College)
 - Saul Shanabrook (U Massachusetts Amherst)
 - Micah Savitzky (Hampshire College)
 - Timothy Stiles (Hampshire College)
