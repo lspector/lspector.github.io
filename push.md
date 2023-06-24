@@ -32,7 +32,7 @@
 - Huichen Wang (Amherst College)
 
 
-##### Past + Occasional
+##### Past + Occasional (some at the earlier Institute for Computational Intelligence at Hampshire College) 
 
 - Sneha Reddy Aenugu (U Massachusetts Amherst)
 - Isaac Allison (Hampshire College)
