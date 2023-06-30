@@ -10,6 +10,8 @@ Lee Spector teaches and conducts research in artificial intelligence, artificial
 
 Institutional home pages: [Amherst College](https://www.amherst.edu/people/facstaff/lspector), [Hampshire College](http://faculty.hampshire.edu/lspector/), [UMass Amherst](https://www.cics.umass.edu/faculty/directory/spector_lee)
 
+Lab: [The PUSH Lab](https://lspector.github.io/push.html)
+
 Publications: [Personal Archive](publications.md), [Google Scholar](https://scholar.google.com/citations?user=wtKLtLUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/L.-Spector/144665700), [dblp](https://dblp.org/pid/68/434.html)
 
 Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.edu/lspector/code.html)
