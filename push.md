@@ -4,7 +4,7 @@
 
 ### Amherst College, the University of Massachusetts, Amherst, and Hampshire College ###
 
-[Lee Spector](https://leespector.com), Director
+[Lee Spector](http://leespector.com), Director
 
 * * *
 
