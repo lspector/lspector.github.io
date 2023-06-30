@@ -6,6 +6,8 @@
 
 [Lee Spector](http://leespector.com), Director
 
+Publications are available from Lee Spector's [home page](http://leespector.com).
+
 * * *
 
 #### Participants and Associates
