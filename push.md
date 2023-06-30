@@ -8,6 +8,8 @@
 
 Publications are available from Lee Spector's [home page](http://leespector.com).
 
+Selected posts on the lab's [Discourse site](https://discourse.pushlanguage.org/) are publicly accessible.
+
 * * *
 
 #### Participants and Associates
