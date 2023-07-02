@@ -21,6 +21,7 @@ Selected posts on the lab's [Discourse site](https://discourse.pushlanguage.org/
 - David Dang (Amherst College)
 - Ramita Dhamrongsirivadh (U Massachusetts Amherst)
 - Li Ding (U Massachusetts Amherst)
+- James Frazier (Hamilton College)
 - Jayden Fedoroff (Hamilton College)
 - Michael Garcia (Hampshire College)
 - Thomas Helmuth (Hamilton College)
@@ -37,7 +38,9 @@ Selected posts on the lab's [Discourse site](https://discourse.pushlanguage.org/
 
 
 ##### Past + Occasional (some at the earlier Institute for Computational Intelligence at Hampshire College) 
-
+ 
+- Amr Abdelhady (Hamilton College)
+- Ahmed Abdelrehim (Hamilton College)
 - Sneha Reddy Aenugu (U Massachusetts Amherst)
 - Isaac Allison (Hampshire College)
 - Adam Alpern (Hampshire College)
@@ -90,12 +93,13 @@ Selected posts on the lab's [Discourse site](https://discourse.pushlanguage.org/
 - Erik Rauer (U Minnisota Morris)
 - Alan Robinson (Hampshire College)
 - Silvana Saca (Smith College)
+- Micah Savitzky (Hampshire College)
 - Maurisa Saylor (Hampshire College)
 - Julia Schor (Amherst College)
 - Laverne Schrock (U Minnisota Morris)
 - Adam Schwartz (Hampshire College)
 - Saul Shanabrook (U Massachusetts Amherst)
-- Micah Savitzky (Hampshire College)
+- Violet Shi (Hampshire College)
 - Timothy Stiles (Hampshire College)
 - Andrew Stout (U Massachusetts Amherst)
 - Muhammad Ahsan Tahir (Amherst College)
