@@ -358,6 +358,8 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 
 ## Posters and Poster Papers
 
+Boldi, R., A. Lalejini, T. Helmuth, and L. Spector. 2023. A Static Analysis of Informed Down-Samples. In *Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '23 Companion)*. Association for Computing Machinery, New York, NY, USA, 531–534. ([pdf](https://doi.org/10.1145/3583133.3590751))
+
 Saini, A.K., L. Spector, and T. Helmuth. 2022. Environments with local scopes for modules in genetic programming. In _GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion_, pp. 598-601. ([pdf](https://doi.org/10.1145/3520304.3528958))
 
 Ding, L., R. Boldi, T. Helmuth, and L. Spector. 2022. Going faster and hence further with lexicase selection. In _GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion_, pp. 538-541. ([pdf](https://doi.org/10.1145/3520304.3529059))
