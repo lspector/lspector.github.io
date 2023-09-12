@@ -360,6 +360,8 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 
 ## Posters and Poster Papers
 
+Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Lalejini. 2023. The Problem Solving Benefits of Down-Sampling Vary by Selection Scheme. In _Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '23 Companion)._ Association for Computing Machinery, New York, NY, USA, 527–530. ([pdf](https://doi.org/10.1145/3583133.3590713))
+
 Boldi, R., A. Lalejini, T. Helmuth, and L. Spector. 2023. A Static Analysis of Informed Down-Samples. In *Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '23 Companion)*. Association for Computing Machinery, New York, NY, USA, 531–534. ([pdf](https://doi.org/10.1145/3583133.3590751); [preprint pdf](https://arxiv.org/pdf/2304.01978.pdf))
 
 Saini, A.K., L. Spector, and T. Helmuth. 2022. Environments with local scopes for modules in genetic programming. In _GECCO '22: Proceedings of the Genetic and Evolutionary Computation Conference Companion_, pp. 598-601. ([pdf](https://doi.org/10.1145/3520304.3528958))
