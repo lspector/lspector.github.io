@@ -197,6 +197,8 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 Ding, L., E. Pantridge, and L. Spector. 2023. Probabilistic Lexicase Selection. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '23)_. Association for Computing Machinery, New York, NY, USA, 1073–1081. ([pdf](https://doi.org/10.1145/3583131.3590375); [preprint pdf](https://arxiv.org/abs/2305.11681))
 
+Boldi, R., and L. Spector. 2023. Can the Problem-Solving Benefits of Quality Diversity be Obtained Without Explicit Diversity Maintenance? In _Genetic and Evolutionary Computation Conference Companion (GECCO-2023 Companion)._ Association for Computing Machinery, New York, NY, USA, 2152–2156. ([pdf](https://doi.org/10.1145/3583133.3596336))
+
 Boldi, R., T. Helmuth, and L. Spector. 2022. The environmental discontinuity hypothesis for down-sampled lexicase selection. In the _Why it didn't work-shop_ at _ALIFE 2022: The 2022 Conference on Artificial Life_. ([pdf](https://arxiv.org/pdf/2205.15931.pdf))
 
 Pantridge, E., T. Helmuth, and L. Spector. 2022. Functional code building genetic programming. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '22)_, pp. 1000-1008. Published by the Association for Computing Machinery. ([pdf](https://doi.acm.org?doi=3512290.3528866))
