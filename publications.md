@@ -195,6 +195,8 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 ## Conference and Workshop Papers
 
+Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Lalejini. 2024. Untangling the Effects of Down-Sampling and Selection in Genetic Programming. In Artificial Life Conference Proceedings, ALIFE-2024.
+
 Ding, L., E. Pantridge, and L. Spector. 2023. Probabilistic Lexicase Selection. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '23)_. Association for Computing Machinery, New York, NY, USA, 1073–1081. ([pdf](https://doi.org/10.1145/3583131.3590375); [preprint pdf](https://arxiv.org/abs/2305.11681))
 
 Boldi, R., and L. Spector. 2023. Can the Problem-Solving Benefits of Quality Diversity be Obtained Without Explicit Diversity Maintenance? In _Genetic and Evolutionary Computation Conference Companion (GECCO-2023 Companion)._ Association for Computing Machinery, New York, NY, USA, 2152–2156. ([pdf](https://doi.org/10.1145/3583133.3596336))
