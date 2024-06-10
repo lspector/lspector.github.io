@@ -93,7 +93,6 @@ Spector, L. 2021. Editorial Introduction. In _Genetic Programming and Evolvable 
 
 Helmuth, T., Pantridge, E., and L. Spector. 2020. On the importance of specialists for lexicase selection. In _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 349--373. https://doi.org/10.1007/s10710-020-09377-2. ([full text](https://t.co/M4NYyOjk4S))
 
-
 Spector, L. 2020\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 21, No. 1, pp. 1-2.  
 
 O'Neill, M., and Lee Spector. 2020. Automatic programming: The open issue? _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 251-262. https://doi.org/10.1007/s10710-019-09364-2 ([full text](https://rdcu.be/bQUA2))
@@ -102,8 +101,7 @@ Spector, L. 2019. Editorial Introduction. In <span style="font-style: italic;">G
 
 La Cava, W., S. Silva, K. Danai, L. Spector, L. Vanneschi, and J. H. Moore. 2019\. Multidimensional genetic programming for multiclass classification. In <span style="font-style: italic;">Swarm and Evolutionary Computation</span>, Vol. 44, pp. 260-272. https://doi.org/10.1016/j.swevo.2018.03.015
 
-La Cava, W., T. Helmuth, L. Spector, and J. H. Moore. 2018\. A Probabilistic and Multi-Objective Analysis of Lexicase Selection and ε-Lexicase Selection. In _Evolutionary Computation_, Vol. 27, Issue 3,  
-pp. 377-402\. [https://doi.org/10.1162/evco_a_00224](https://doi.org/10.1162/evco_a_00224) ([pdf](https://arxiv.org/pdf/1709.05394.pdf))
+La Cava, W., T. Helmuth, L. Spector, and J. H. Moore. 2018\. A Probabilistic and Multi-Objective Analysis of Lexicase Selection and ε-Lexicase Selection. In _Evolutionary Computation_, Vol. 27, Issue 3, pp. 377-402\. [https://doi.org/10.1162/evco_a_00224](https://doi.org/10.1162/evco_a_00224) ([pdf](https://arxiv.org/pdf/1709.05394.pdf))
 
 Clark, D. M., and L. Spector. 2018\. Evolution of algebraic terms 3: Term continuity and beam algorithms. In <span style="font-style: italic;">International Journal of Algebra and Computation</span>, Vol. 28, No. 05, pp. 759-790. https://doi.org/10.1142/S0218196718500352.  
 
