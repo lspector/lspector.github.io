@@ -197,6 +197,10 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 ## Conference and Workshop Papers
 
+Ni, A., and L. Spector. 2024. Effective Adaptive Mutation Rates for Program Synthesis. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '24)._ Association for Computing Machinery, New York, NY, USA.
+
+Helmuth, T., J. Fedoroff, E. Pantridge, and L. Spector. 2024. Facilitating Function Application in Code Building Genetic Programming. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '24)._ Association for Computing Machinery, New York, NY, USA.
+
 Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Lalejini. 2024. Untangling the Effects of Down-Sampling and Selection in Genetic Programming. In _Artificial Life Conference Proceedings, ALIFE-2024._
 
 Ding, L., J. Zhang, J. Clune, L. Spector, and J. Lehman. 2024. Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization. In _Proceedings of The Forty-first International Conference on Machine Learning, ICML-2024_.
@@ -371,6 +375,12 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 * * *
 
 ## Posters and Poster Papers
+
+Briesch, M., R. Boldi, D. Sobania, A. Lalejini, T. Helmuth, F. Rothlauf, C. Ofria, and L. Spector. 2024. Improving Lexicase Selection with Informed Down-Sampling. "Hot Off the Press" track.  Genetic and Evolutionary Computation Conference (GECCO '24).
+
+Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Lalejini. 2024. A Comprehensive Analysis of Down-sampling for Genetic Programming-based Program Synthesis. In _Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '24 Companion)._ Association for Computing Machinery, New York, NY, USA.
+
+Boldi, R., L. Ding, and L. Spector. 2024. Solving Deceptive Problems Without Explicit Diversity Maintenance. In _Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '24 Companion)._ Association for Computing Machinery, New York, NY, USA.
 
 Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Lalejini. 2023. The Problem Solving Benefits of Down-Sampling Vary by Selection Scheme. In _Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '23 Companion)._ Association for Computing Machinery, New York, NY, USA, 527–530. ([pdf](https://doi.org/10.1145/3583133.3590713))
 
