@@ -22,7 +22,9 @@ Spector, L., U.-M. O'Reilly, W. Langdon, and P. Angeline, editors. 1999. _Advanc
 
 ## Book Chapters
 
-Spector, L., Ding, L., and Boldi, R. 2023. Particularity. In _Genetic Programming Theory and Practice XX._ New York: Springer. To appear. ([preprint](https://arxiv.org/abs/2306.06812))
+Spector, L. 2024. Ratcheted Random Search for Self-Programming Boolean Networks. In _Genetic Programming Theory and Practice XXI._ New York: Springer. To appear.
+
+Spector, L., Ding, L., and Boldi, R. 2023. Particularity. In _Genetic Programming Theory and Practice XX._ New York: Springer. ([preprint](https://arxiv.org/abs/2306.06812))
 
 Saini, A. K., and Spector, L. 2021. Evolving and Analyzing modularity with
 GLEAM (Genetic Learning by Extraction and Absorption of Modules). In _Genetic Programming Theory and Practice XVIII_. New York: Springer. pp. 171-185.
@@ -79,22 +81,24 @@ Spector, L. and J. Grafman. 1994\. Planning, Neuropsychology, and Artificial Int
 
 ## Journal Publications
 
+Boldi, R., M. Briesch, D. Sobania, A. Lalejini, T. Helmuth, F. Rothlauf, C. Ofria, and L. Spector. 2024. Informed Down-Sampled Lexicase Selection: Identifying Productive Training Cases for Efficient Problem Solving. In _Evolutionary Computation,_ doi: https://doi.org/10.1162/evco_a_00346
+
 Ding, L., and L. Spector. 2023. Multi-Objective Evolutionary Architecture Search for Parameterized Quantum Circuits. In _Entropy_, Vol 25, No. 1: 93. ([full text](https://doi.org/10.3390/e25010093))
 
 Spector, L. 2022. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 23, No. 1, pp. 1-2.
 
 Helmuth, T., and L. Spector. 2021. Problem-solving benefits of down-sampled lexicase selection. In _Artificial Life_, Vol 27, Issue 3-4, pp. 183--203. ([pdf](https://doi.org/10.1162/artl_a_00341))
 
-Spector, L. 2021\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 22, No. 1, pp. 1-2.  
+Spector, L. 2021. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 22, No. 1, pp. 1-2.  
 
 Helmuth, T., Pantridge, E., and L. Spector. 2020. On the importance of specialists for lexicase selection. In _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 349--373. https://doi.org/10.1007/s10710-020-09377-2. ([full text](https://t.co/M4NYyOjk4S))
 
 
 Spector, L. 2020\. Editorial Introduction. In _Genetic Programming and Evolvable Machines_, Vol. 21, No. 1, pp. 1-2.  
 
-O'Neill, M., and Lee Spector. 2020\. Automatic programming: The open issue? _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 251-262. https://doi.org/10.1007/s10710-019-09364-2 ([full text](https://rdcu.be/bQUA2))
+O'Neill, M., and Lee Spector. 2020. Automatic programming: The open issue? _Genetic Programming and Evolvable Machines_, Vol. 21, pp. 251-262. https://doi.org/10.1007/s10710-019-09364-2 ([full text](https://rdcu.be/bQUA2))
 
-Spector, L. 2019\. Editorial Introduction. In <span style="font-style: italic;">Genetic Programming and Evolvable Machines</span>, Vol. 20, No. 1, pp. 1-2.  
+Spector, L. 2019. Editorial Introduction. In <span style="font-style: italic;">Genetic Programming and Evolvable Machines</span>, Vol. 20, No. 1, pp. 1-2.  
 
 La Cava, W., S. Silva, K. Danai, L. Spector, L. Vanneschi, and J. H. Moore. 2019\. Multidimensional genetic programming for multiclass classification. In <span style="font-style: italic;">Swarm and Evolutionary Computation</span>, Vol. 44, pp. 260-272. https://doi.org/10.1016/j.swevo.2018.03.015
 
