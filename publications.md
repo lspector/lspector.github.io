@@ -199,6 +199,8 @@ Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Laleji
 
 Ding, L., J. Zhang, J. Clune, L. Spector, and J. Lehman. 2024. Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization. In _Proceedings of The Forty-first International Conference on Machine Learning, ICML-2024_.
 
+Helmuth, T., Pantridge, E., Frazier, J.G., Spector, L. (2024). Generational Computation Reduction in Informal Counterexample-Driven Genetic Programming. In _Proceedings of EuroGP 2024_. Lecture Notes in Computer Science, vol 14631. Springer, Cham. https://doi.org/10.1007/978-3-031-56957-9_2
+
 Ding, L., E. Pantridge, and L. Spector. 2023. Probabilistic Lexicase Selection. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '23)_. Association for Computing Machinery, New York, NY, USA, 1073–1081. ([pdf](https://doi.org/10.1145/3583131.3590375); [preprint pdf](https://arxiv.org/abs/2305.11681))
 
 Boldi, R., and L. Spector. 2023. Can the Problem-Solving Benefits of Quality Diversity be Obtained Without Explicit Diversity Maintenance? In _Genetic and Evolutionary Computation Conference Companion (GECCO-2023 Companion)._ Association for Computing Machinery, New York, NY, USA, 2152–2156. ([pdf](https://doi.org/10.1145/3583133.3596336))
