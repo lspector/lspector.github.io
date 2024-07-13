@@ -169,7 +169,7 @@ Spector, L., J. Klein, C. Perry, and M. Feinstein. 2005\. Emergence of Collectiv
 
 Spector, L. 2002\. Book Review: The Quest for the Quantum Computer, by J. Brown. In _Genetic Programming and Evolvable Machines_, Vol. 3, No. 4, pp. 391-393.
 
-Spector, L., and A. Robinson. 2002\. Genetic Programming and Autoconstructive Evolution with the Push Programming Language. In _Genetic Programming and Evolvable Machines_, Vol. 3, No. 1, pp. 7-40\. ([pdf](http://faculty.hampshire.edu/lspector/pubs/push-gpem-final.pdf))
+Spector, L., and A. Robinson. 2002\. Genetic Programming and Autoconstructive Evolution with the Push Programming Language. In _Genetic Programming and Evolvable Machines_, Vol. 3, No. 1, pp. 7-40\. ([Full text](https://rdcu.be/dNGAG), [pdf](http://faculty.hampshire.edu/lspector/pubs/push-gpem-final.pdf))
 
 Spector, L. 2002\. Hierarchy Helps it Work That Way. In _Philosophical Psychology_, Vol. 15, No. 2 (June, 2002), pp. 109-117\. ([pdf](http://faculty.hampshire.edu/lspector/pubs/spector-hierarchy.pdf))
 
