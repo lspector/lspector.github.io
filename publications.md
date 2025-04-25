@@ -103,7 +103,7 @@ Spector, L. 2019. Editorial Introduction. In <span style="font-style: italic;">G
 
 La Cava, W., S. Silva, K. Danai, L. Spector, L. Vanneschi, and J. H. Moore. 2019\. Multidimensional genetic programming for multiclass classification. In <span style="font-style: italic;">Swarm and Evolutionary Computation</span>, Vol. 44, pp. 260-272. https://doi.org/10.1016/j.swevo.2018.03.015
 
-La Cava, W., T. Helmuth, L. Spector, and J. H. Moore. 2018\. A Probabilistic and Multi-Objective Analysis of Lexicase Selection and ε-Lexicase Selection. In _Evolutionary Computation_, Vol. 27, Issue 3, pp. 377-402\. [https://doi.org/10.1162/evco_a_00224](https://doi.org/10.1162/evco_a_00224) ([pdf](https://arxiv.org/pdf/1709.05394.pdf))
+La Cava, W., T. Helmuth, L. Spector, and J. H. Moore. 2018\. A Probabilistic and Multi-Objective Analysis of Lexicase Selection and ε-Lexicase Selection. In _Evolutionary Computation_, Vol. 27, Issue 3, pp. 377-402\. ([MIT Press](https://doi.org/10.1162/evco_a_00224), [arXiv](https://arxiv.org/pdf/1709.05394.pdf))
 
 Clark, D. M., and L. Spector. 2018\. Evolution of algebraic terms 3: Term continuity and beam algorithms. In <span style="font-style: italic;">International Journal of Algebra and Computation</span>, Vol. 28, No. 05, pp. 759-790. https://doi.org/10.1142/S0218196718500352.  
 
