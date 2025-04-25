@@ -207,7 +207,7 @@ Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Laleji
 
 Ding, L., J. Zhang, J. Clune, L. Spector, and J. Lehman. 2024. Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization. In _Proceedings of The Forty-first International Conference on Machine Learning, ICML-2024_.
 
-Ni, A., Ding, L., and Spector, L. 2024. DALex: Lexicase-Like Selection via Diverse Aggregation. In _Proceedings of EuroGP 2024._ Lecture Notes in Computer Science, vol 14631. Springer, Cham. ([pdf](https://doi.org/10.1007/978-3-031-56957-9_6))
+Ni, A., Ding, L., and Spector, L. 2024. DALex: Lexicase-Like Selection via Diverse Aggregation. In _Proceedings of EuroGP 2024._ Lecture Notes in Computer Science, vol 14631. Springer, Cham. ([Springer](https://doi.org/10.1007/978-3-031-56957-9_6), [arXiv](https://arxiv.org/abs/2401.12424))
 
 Helmuth, T., Pantridge, E., Frazier, J.G., and Spector, L. 2024. Generational Computation Reduction in Informal Counterexample-Driven Genetic Programming. In _Proceedings of EuroGP 2024_. Lecture Notes in Computer Science, vol 14631. Springer, Cham. ([pdf](https://doi.org/10.1007/978-3-031-56957-9_2))
 
