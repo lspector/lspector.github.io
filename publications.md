@@ -201,7 +201,7 @@ Spector, L. and J. Hendler. 1989\. Book Review: Minimal Rationality, by C. Chern
 
 ## Conference and Workshop Papers
 
-Bahlous-Boldi, R., L. Ding, L. Spector, and S. Niekum. 2025. Pareto Optimal Learning from Preferences with Hidden Context. In _Reinforcement Learning Conference, RLC 2025_. [pdf](https://openreview.net/forum?id=7R0azwu9Fx)
+Bahlous-Boldi, R., L. Ding, L. Spector, and S. Niekum. 2025. Pareto Optimal Learning from Preferences with Hidden Context. In _Reinforcement Learning Conference, RLC 2025_. ([pdf](https://openreview.net/forum?id=7R0azwu9Fx))
 
 Bahlous-Boldi, R,, M. Faldor, L. Grillotti, H. Janmohamed, L. Coiffard, L. Spector, and A. Cully. 2025. Dominated Novelty Search: Rethinking Local Competition in Quality-Diversity. In _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '25)_. Association for Computing Machinery, New York, NY, USA, 104-112.
 
