@@ -384,6 +384,10 @@ Evett, M., L. Spector, and J. Hendler. 1989\. Knowledge Representation on the Co
 
 ## Posters and Poster Papers
 
+Boldi, R., L. Ding, L. Spector, and S. Niekum. 2024. Pareto-Optimal Learning from Preferences with Hidden Context. In _Pluralistic Alignment Workshop, NeurIPS 2024_. 
+
+Boldi, R., L. Ding, L. Spector, and S. Niekum. 2024. Pareto-Optimal Learning from Preferences with Hidden Context. In _First Reinforcement Learning Safety Workshop, RLSW 2024_. ([pdf](https://openreview.net/forum?id=UKlQyRAKPv))
+
 Briesch, M., R. Boldi, D. Sobania, A. Lalejini, T. Helmuth, F. Rothlauf, C. Ofria, and L. Spector. 2024. Improving Lexicase Selection with Informed Down-Sampling. "Hot Off the Press" track.  Genetic and Evolutionary Computation Conference (GECCO '24).
 
 Boldi, R., A. Bao, M. Briesch, T. Helmuth, D. Sobania, L. Spector, and A. Lalejini. 2024. A Comprehensive Analysis of Down-sampling for Genetic Programming-based Program Synthesis. In _Proceedings of the  Genetic and Evolutionary Computation Conference Companion (GECCO '24 Companion)._ Association for Computing Machinery, New York, NY, USA.
