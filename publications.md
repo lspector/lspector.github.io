@@ -440,6 +440,10 @@ Spector, L. 1990\. An Abstraction-Partitioned Model for Reactive Planning. Poste
 
 ## Additional Scientific Publications
 
+Lorantos, N., and L. Spector. 2025. Toward Open-Ended Intrinsic Evolution in Lenia Through Multi-Objective Optimization. Preprint. ([arXiv](https://arxiv.org/html/2506.02990v1))
+
+Ni, A., and L. Spector. 2024. Leveraging Symbolic Regression for Heuristic Design in the Traveling Thief Problem. Preprint. ([arXiv](https://arxiv.org/abs/2404.12750))
+
 Helmuth, T., and L. Spector. 2015\. Detailed Problem Descriptions for General Program Synthesis Benchmark Suite. University of Massachusetts, Amherst, Computer Science Technical Report UM-CS-2015-006\. ([online](https://web.cs.umass.edu/publication/details.php?id=2387))  
 
 Spector, L., C. Perry, J. Klein, and M. Keijzer. 2004\. Push 3.0 Programming Language Description. Hampshire College Cognitive Science Technical Report HC-CSTR-2004-02\. ([pdf](http://faculty.hampshire.edu/lspector/temp/HC-CSTR-2004-02.pdf))
