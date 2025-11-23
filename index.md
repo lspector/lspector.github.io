@@ -16,7 +16,7 @@ Publications: [Personal Archive](publications.md), [Google Scholar](https://scho
 
 Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.edu/lspector/code.html)
 
-Social: [Mastodon](https://sigmoid.social/@lspector), [Youtube](https://www.youtube.com/channel/UCtVUvdy3dTHYWC2fgSqHxBQ)
+Social: [Mastodon](https://sigmoid.social/@lspector), [Bluesky](https://bsky.app/profile/leespector.bsky.social), [Youtube](https://www.youtube.com/channel/UCtVUvdy3dTHYWC2fgSqHxBQ)
 
 ---
 
