@@ -24,8 +24,6 @@ Social: [Mastodon](https://sigmoid.social/@lspector), [Youtube](https://www.yout
 
 ### Featured projects
 
-- Genetic Programming and Evolvable Machines: [Journal](https://www.springer.com/journal/10710), [Blog](https://gpemjournal.blogspot.com)
-
 - [Artificial Intelligence in the Liberal Arts](https://liberal-arts.ai)
 
 - [Push Language Discourse](https://discourse.pushlanguage.org/)
