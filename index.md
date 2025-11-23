@@ -33,5 +33,3 @@ Social: [Mastodon](https://sigmoid.social/@lspector), [Youtube](https://www.yout
 - [Interpush](https://lspector.github.io/interpush/), an online Push interpreter
 
 - [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox)
-
-- [Comments](https://www.facebook.com/watch/live/?v=489664699066947) on information theory, given in conjunction with a remote screening of *The Bit Player*
