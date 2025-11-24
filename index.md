@@ -24,10 +24,12 @@ Social: [Mastodon](https://sigmoid.social/@lspector), [Bluesky](https://bsky.app
 
 ### Featured projects
 
-- [Artificial Intelligence in the Liberal Arts](https://liberal-arts.ai)
+- [lexicase.ai](https://lexicase.ai), a brief guide to lexicase selection. Lexicase selection considers individual training cases in different random orders, and therefore with different priorities, for each selection event.
 
-- [Push Language Discourse](https://discourse.pushlanguage.org/)
+- [Artificial Intelligence in the Liberal Arts](https://liberal-arts.ai), an initiative at Amherst College, exploring and facilitating multi-way interactions between work in artificial intelligence and work across the liberal arts.
 
-- [Interpush](https://lspector.github.io/interpush/), an online Push interpreter
+- [Push Language Discourse](https://discourse.pushlanguage.org/), the [The PUSH Lab](https://lspector.github.io/push.html)'s Discourse site, on which selected posts are publicly accessible.
 
-- [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox)
+- [Interpush](https://lspector.github.io/interpush/), an online Push interpreter.
+
+- [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox), for exploring puzzles in game theory about how combinations of losing strategies win.
