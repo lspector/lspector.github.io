@@ -12,7 +12,7 @@ Institutional home pages: [Amherst College](https://www.amherst.edu/people/facst
 
 Lab: [The PUSH Lab](https://lspector.github.io/push.html)
 
-Publications: [Personal Archive](publications.md), [Google Scholar](https://scholar.google.com/citations?user=wtKLtLUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/L.-Spector/144665700), [dblp](https://dblp.org/pid/68/434.html)
+Publications: [Personal Archive](publications.md), [Google Scholar](https://scholar.google.com/citations?user=wtKLtLUAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/L.-Spector/144665700), [ORCID](https://orcid.org/0000-0001-5299-4797), [dblp](https://dblp.org/pid/68/434.html)
 
 Code: [Github](https://github.com/lspector), [Other](https://faculty.hampshire.edu/lspector/code.html)
 
@@ -32,4 +32,4 @@ Social: [Mastodon](https://sigmoid.social/@lspector), [Bluesky](https://bsky.app
 
 - [Interpush](https://lspector.github.io/interpush/), an online Push interpreter.
 
-- [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox), for exploring puzzles in game theory about how combinations of losing strategies win.
+- [Parrondo's Paradox simulator](https://lspector.people.amherst.edu/parrondos-paradox), for exploring puzzles in game theory about how combinations of losing strategies can win.
