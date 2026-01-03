@@ -24,7 +24,7 @@ Spector, L., U.-M. O'Reilly, W. Langdon, and P. Angeline, editors. 1999. _Advanc
 
 Spector, L., R. Bahlous-Boldi, P. Vander Vort, and N. Lorantos. 2025. Evolution of Artificial Intelligence, Continued. In _Genetic Programming Theory and Practice XXII_. New York: Springer. To appear.
 
-Spector, L. 2024. Ratcheted Random Search for Self-Programming Boolean Networks. In _Genetic Programming Theory and Practice XXI._ New York: Springer. pp. 219-236. ([preprint](https://leespector.github.io/files/Spector-GPTP2024-preprint.pdf))
+Spector, L. 2024. Ratcheted Random Search for Self-Programming Boolean Networks. In _Genetic Programming Theory and Practice XXI._ New York: Springer. pp. 219-236. ([preprint](https://lspector.github.io/files/Spector-GPTP2024-preprint.pdf))
 
 Spector, L., Ding, L., and Boldi, R. 2023. Particularity. In _Genetic Programming Theory and Practice XX._ New York: Springer. pp. 159-176. ([preprint](https://arxiv.org/abs/2306.06812))
 
