@@ -83,6 +83,8 @@ Spector, L. and J. Grafman. 1994\. Planning, Neuropsychology, and Artificial Int
 
 ## Journal Publications
 
+Dutykh, D., R. Escobedo, and L. Spector. 2026. Modeling how hunting strategies and pack size shape each other. In _Journal of Theoretical Biology_, Vol. 623, 21 May 2026, 112390. https://doi.org/10.1016/j.jtbi.2026.112390
+
 Spector, L., and L. Trujillo. 2024. Chief editorship transition. In _Genetic Programming and Evolvable Machines_, Vol. 24, article number 22. ([full text](https://link.springer.com/article/10.1007/s10710-024-09496-0))
 
 Boldi, R., M. Briesch, D. Sobania, A. Lalejini, T. Helmuth, F. Rothlauf, C. Ofria, and L. Spector. 2024. Informed Down-Sampled Lexicase Selection: Identifying Productive Training Cases for Efficient Problem Solving. In _Evolutionary Computation,_ doi: https://doi.org/10.1162/evco_a_00346
