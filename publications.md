@@ -442,6 +442,8 @@ Spector, L. 1990\. An Abstraction-Partitioned Model for Reactive Planning. Poste
 
 ## Additional Scientific Publications
 
+Helmuth, T., and L. Spector. 2026. The 2025 ACM GECCO Impact Award: General Program Synthesis Benchmark Suite. In SIGEVOlution, the Newsletter of the ACM Special Interest Group on Genetic and Evolutionary Computation. Volume 19, Issue 1. ([online] (https://evolution.sigevo.org/issues/HTML/sigevolution-19-1/index.html))
+
 Lorantos, N., and L. Spector. 2025. Toward Open-Ended Intrinsic Evolution in Lenia Through Multi-Objective Optimization. Preprint. ([arXiv](https://arxiv.org/html/2506.02990v1))
 
 Ni, A., and L. Spector. 2024. Leveraging Symbolic Regression for Heuristic Design in the Traveling Thief Problem. Preprint. ([arXiv](https://arxiv.org/abs/2404.12750))
